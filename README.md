@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://klara367.github.io/huddle-landing-page/](https://klara367.github.io/huddle-landing-page/)
 
 ### Built with
 
